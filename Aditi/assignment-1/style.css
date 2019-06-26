@@ -1,7 +1,5 @@
  body{
 	background-color:blue;
-	 padding-left:100px;
-	 padding-right:100px;
 	 margin:0px;
 	}
 	 
@@ -9,8 +7,6 @@
 	  border-top:0px;
 	  background-color:white;
 	  min-height:50px;
-	  padding-left:100px;
-	  padding-right:100px;
 	  }
 	  
 	.header1{
