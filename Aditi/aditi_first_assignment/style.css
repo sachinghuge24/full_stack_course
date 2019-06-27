@@ -1,34 +1,25 @@
  body{
-	 width:100%;
-	 height:100vh;
 	 background-image:url("bg.jpg.jpg");
-	 background-size:cover;
-	 
+	margin:0;
+	padding:0 10%;
 	 }
 	 
 	 section.header-section{
-		 border-top:0px;
 	  background-color:white;
 	  min-height:50px;	
-	   padding-left:100px;
-	  padding-right:100px;
-	  
-	  
-	  }
+	  padding:0 100px;
+	}
 	  
 	.website-img{
 	  float:left;
-	  display:inline-block;
 	}
 	
 	.website-nav{
 	  float:right;
-	 display:inline-block;
-	 height:50px;
-	 
-	 
-	 
-	 }
+	}
+	.website-img img{
+		height:50px;
+	}
 	 nav{
 		 color:#008080;
 		 padding:10px;
